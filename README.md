@@ -18,7 +18,17 @@ Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yil bahoridan boshlag
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-      </p>
+</p>
+      
+## So'ngi loyihalar
+
+| Preview | Ta'rif | 
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/>
+<br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlyan do'koning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/oyatillo0201/Ecommerce/">📜 Repo</a> - <a href="https://ecommerce-4115.netlify.app/" target="blank">🌐 Netlify</a> - ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
+
+
+**<a href="https://frontendtester.uz" target="_blank">💼 Barcha loyihalar</a>**
       
 ## Kontaktlar
 <p align="left">
