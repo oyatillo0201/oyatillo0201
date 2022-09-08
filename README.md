@@ -24,18 +24,18 @@ Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yil bahoridan boshlag
 
 | Preview | Ta'rif | 
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/>
-<br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlyan do'koning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/oyatillo0201/Ecommerce/">📜 Repo</a> - <a href="https://ecommerce-4115.netlify.app/" target="blank">🌐 Netlify</a> - ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlyan do'koning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/oyatillo0201/Ecommerce/">📜 Repo</a> - <a href="https://ecommerce-4115.netlify.app/" target="blank">🌐 Netlify</a> - ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
 
 
 **<a href="https://frontendtester.uz" target="_blank">💼 Barcha loyihalar</a>**
       
-## Kontaktlar
+## Sahifalar
 <p align="left">
 <a href="https://twitter.com/@oyatillo__23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@oyatillo__23" height="30" width="40" /></a>
 <a href="https://fb.com/oyatillo23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oyatillo23" height="30" width="40" /></a>
 </p>
 
+## GitHub statistikasi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyatillo0201&show_icons=true&locale=en&layout=compact" alt="oyatillo0201" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oyatillo0201&show_icons=true&locale=en" alt="oyatillo0201" /></p>
